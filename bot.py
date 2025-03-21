@@ -13,7 +13,7 @@ import json
 import datetime
 from discord.ext import commands, tasks
 
-from secrets import *
+from credentials import *
 
 # Secrets must contain:
 
